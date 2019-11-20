@@ -1,0 +1,6 @@
+- id: prettier-java
+  name: prettier for Java
+  entry: prettier --write
+  language: node
+  files: "java"
+

@@ -1,0 +1,12 @@
+{
+  "name": "prettier-java-pre-commit-hook",
+  "version": "1.0.0",
+  "description": "A pre-commit hook configuration to use prettier-plugin-java",
+  "repository": "https://github.com/ekans/prettier-java-pre-commit-hook",
+  "author": "Ekans",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "prettier": "^1.19.1",
+    "prettier-plugin-java": "^0.4.0"
+  }
+}
