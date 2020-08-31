@@ -7,9 +7,9 @@
   },
   "repository": "https://github.com/ekans/prettier-java-pre-commit-hook",
   "author": "Ekans",
-  "license": "Apache License 2.0",
+  "license": "Apache-2.0",
   "dependencies": {
-    "prettier": "^2.0.5",
-    "prettier-plugin-java": "^0.8.0"
+    "prettier": "2.1.1",
+    "prettier-plugin-java": "0.8.1"
   }
 }
