@@ -9,7 +9,7 @@
   "author": "Ekans",
   "license": "Apache-2.0",
   "dependencies": {
-    "prettier": "2.1.1",
-    "prettier-plugin-java": "0.8.1"
+    "prettier": "2.2.0",
+    "prettier-plugin-java": "1.0.0"
   }
 }
