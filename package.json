@@ -1,6 +1,6 @@
 {
   "name": "prettier-java-pre-commit-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A pre-commit hook configuration to use prettier-plugin-java",
   "bin": {
     "prettier": "./node_modules/.bin/prettier"
@@ -9,7 +9,7 @@
   "author": "Ekans",
   "license": "Apache-2.0",
   "dependencies": {
-    "prettier": "2.2.0",
-    "prettier-plugin-java": "1.0.0"
+    "prettier": "2.2.1",
+    "prettier-plugin-java": "1.0.1"
   }
 }
